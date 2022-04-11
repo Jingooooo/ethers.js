@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "esModuleInterop": true,
-    "outDir": "./lib/",
+    "outDir": "./lib._esm/",
     "rootDir": "./src.ts"
   },
   "exclude": [],
